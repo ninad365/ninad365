@@ -12,8 +12,5 @@ I am a Full Stack Developer from India.
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ninad365)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninad365&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
